@@ -17,7 +17,7 @@ p {
 
 .conteiner {
 	margin: auto;
-	display: flex;
+	display: inline;
 	max-width: 450px;
 	
 }
