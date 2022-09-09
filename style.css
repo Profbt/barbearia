@@ -16,7 +16,7 @@ p {
 }
 
 ul li {
-	text-align: center;
-	text-decoration: none;
+	margin: 0 auto;
+
 }
 
