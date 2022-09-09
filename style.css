@@ -15,7 +15,9 @@ p {
 	text-align: center;
 }
 
-.lista {
+.conteiner {
+	margin: auto;
+	display: flex;
 	
 }
 
