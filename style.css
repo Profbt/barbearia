@@ -17,7 +17,7 @@ p {
 
 .conteiner {
 	margin: auto;
-	display: inline;
+	display: inline-block;
 	max-width: 450px;
 	
 }
