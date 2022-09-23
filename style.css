@@ -16,5 +16,11 @@ p {
 }
 
 .conteiner-pai {
-	
+	display: flex;
+	height: 100%;
+	width: auto;
+}
+
+.conteiner-filho {
+	margin: auto;
 }
