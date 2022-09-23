@@ -23,7 +23,7 @@ p {
 
 .conteiner-filho {
 	margin: auto;
-	display: inline;
+	display: inline-block;
 }
 
 #careca {
