@@ -19,6 +19,7 @@ h1 {
 .texto {
 	width: 90%;
 	margin: auto;
+	border: #29D9D9;
 }
 
 p {
