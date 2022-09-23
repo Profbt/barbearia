@@ -24,6 +24,6 @@ p {
 .conteiner-filho {
 	margin: auto;
 }
- ul {
+ ul li {
 	display: inline;
  }
