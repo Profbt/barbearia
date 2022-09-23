@@ -15,4 +15,8 @@ p {
 	text-align: center;
 }
 
-
+.conteiner {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
