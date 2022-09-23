@@ -17,6 +17,7 @@ p {
 
 ul li {
 	position: absolute;
+	max-width: 450px;
 	margin: 0, auto;
 }
 
