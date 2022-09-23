@@ -24,3 +24,7 @@ p {
 .conteiner-filho {
 	margin: auto;
 }
+
+#careca {
+	width: 50%;
+}
