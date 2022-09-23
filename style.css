@@ -31,10 +31,12 @@ p {
 	display: flex;
 	height: 100%;
 	width: auto;
+	background: blue;
 }
 
 .conteiner-filho {
 	margin: auto;
+	background: brown;
 	
 }
 
