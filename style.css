@@ -15,5 +15,8 @@ p {
 	text-align: center;
 }
 
-
+ul li {
+	position: absolute;
+	margin: 0, auto;
+}
 
