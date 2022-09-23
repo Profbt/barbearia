@@ -16,6 +16,10 @@ h1 {
 	font-size: 50px;
 }
 
+.texto {
+	width: 90%;
+}
+
 p {
 	text-align: center;
 	font-size: 25px;
