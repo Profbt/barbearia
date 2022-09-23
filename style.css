@@ -19,7 +19,7 @@ h1 {
 .texto {
 	width: 90%;
 	margin: auto;
-	border:black
+	background-color: blueviolet;
 }
 
 p {
