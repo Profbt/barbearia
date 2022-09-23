@@ -24,3 +24,6 @@ p {
 .conteiner-filho {
 	margin: auto;
 }
+ ul {
+	display: inline;
+ }
