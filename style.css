@@ -29,19 +29,10 @@ p {
 	color: beige;
 }
 
-.conteiner-pai {
-	display: flex;
-	height: 100%;
-	width: auto;
-}
 
-.conteiner-filho {
-	margin: auto;
-	
-}
 
 li {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 35px;
+	color: beige;
+	font-size: 25px;
 }
 
