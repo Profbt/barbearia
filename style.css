@@ -4,7 +4,7 @@
 
 } 
 body {
-	background: #29D9D9;
+	background: #000000;
 	margin: 0;
 	padding: 0;
 	
@@ -24,7 +24,7 @@ h1 {
 p {
 	
 	text-align: center;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 .conteiner-pai {
