@@ -17,6 +17,10 @@ h1 {
 	color: beige;
 }
 
+#fundo {
+	color: blueviolet;
+}
+
 .texto {
 	width: 90%;
 	margin: auto;
