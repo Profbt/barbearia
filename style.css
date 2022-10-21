@@ -42,3 +42,8 @@ li {
 #salao2 {
 	width: 40%;
 }
+
+.imagens {
+	display: inline-block;
+	margin: auto;
+}
